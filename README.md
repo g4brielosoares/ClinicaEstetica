@@ -60,12 +60,3 @@ DELETE /api/agendamentos/:id
 GET    /api/relatorio
 GET    /api/health
 ```
-
-## Evidências sugeridas para o relatório
-
-- Print da estrutura de pastas.
-- Print do terminal com `npm run dev`.
-- Print do dashboard funcionando.
-- Print dos cadastros de clientes, procedimentos e agendamentos.
-- Print do arquivo `server/data/db.json` após cadastrar registros.
-- Print de um teste no navegador acessando `/api/clientes`.
