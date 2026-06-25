@@ -112,22 +112,7 @@ GET    /api/relatorio
 GET    /api/health
 ```
 
-## 10. Evidências do Processo de Desenvolvimento
-
-Evidências que podem ser anexadas ao relatório final:
-
-- Print da estrutura de pastas do projeto.
-- Print do arquivo `server/data/db.json`.
-- Print do terminal após executar `npm install`.
-- Print do terminal após executar `npm run dev`.
-- Print do dashboard da aplicação.
-- Print da tela de clientes.
-- Print da tela de procedimentos.
-- Print da tela de agendamentos.
-- Print da API acessada no navegador, por exemplo `http://localhost:3333/api/clientes`.
-- Print do build concluído com `npm run build`.
-
-## 11. Testes Realizados
+## 10. Testes Realizados
 
 - Verificação do build de produção com `npm run build`.
 - Verificação da inicialização da API.
@@ -135,6 +120,6 @@ Evidências que podem ser anexadas ao relatório final:
 - Validação de cadastro com campos obrigatórios.
 - Verificação da persistência no arquivo JSON após operações de criação, edição e exclusão.
 
-## 12. Conclusão
+## 11. Conclusão
 
 O sistema desenvolvido atende ao objetivo acadêmico proposto, oferecendo funcionalidades essenciais para uma clínica estética e utilizando uma arquitetura desacoplada. A escolha de persistência em JSON no servidor simplifica a execução do projeto, mas mantém uma organização que facilita a futura migração para banco de dados.
