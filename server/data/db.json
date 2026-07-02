@@ -1044,11 +1044,11 @@
       "horario": "08:00",
       "profissionalId": "profissional-2",
       "profissional": "Michele Oliveira",
-      "status": "confirmado",
+      "status": "concluido",
       "valor": 180,
       "observacoes": "Agenda distribuída próxima de 24/06/2026. Duração prevista: 120 minutos.",
       "criadoEm": "2026-06-21T08:04:00.000Z",
-      "atualizadoEm": "2026-06-21T08:09:00.000Z"
+      "atualizadoEm": "2026-06-25T02:59:11.717Z"
     },
     {
       "id": "agendamento-concentrado-52",
@@ -1100,11 +1100,11 @@
       "horario": "10:00",
       "profissionalId": "profissional-2",
       "profissional": "Michele Oliveira",
-      "status": "confirmado",
+      "status": "concluido",
       "valor": 350,
       "observacoes": "Agenda distribuída próxima de 24/06/2026. Duração prevista: 150 minutos.",
       "criadoEm": "2026-06-21T08:15:00.000Z",
-      "atualizadoEm": "2026-06-21T08:20:00.000Z"
+      "atualizadoEm": "2026-06-25T02:59:21.336Z"
     },
     {
       "id": "agendamento-concentrado-53",
